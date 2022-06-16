@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the journal assignment for the
+  course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
