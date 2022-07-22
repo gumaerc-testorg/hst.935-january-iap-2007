@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: Painting of an illuminated doctor considering a young patient.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: The Doctor
 uid: 51ee2674-b896-673c-6352-1190a88745eb
 ---
 "The Doctor," by Samuel Luke Fildes, 1891. (Image courtesy of Wikipedia.)
-
