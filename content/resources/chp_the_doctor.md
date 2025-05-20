@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '"The Doctor," by Samuel Luke Fildes, 1891. (Image courtesy of Wikipedia.)'
-file: /ol-ocw-studio-app/courses/hst-935-narrative-ethics-literary-texts-and-moral-issues-in-medicine-january-iap-2007/1d660fc527a1fb1b360599b770f30e9d_chp_the_doctor.jpg
+file: /courses/hst-935-narrative-ethics-literary-texts-and-moral-issues-in-medicine-january-iap-2007/1d660fc527a1fb1b360599b770f30e9d_chp_the_doctor.jpg
 file_size: 67060
 file_type: image/jpeg
 image_metadata:
