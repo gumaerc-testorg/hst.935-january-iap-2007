@@ -5,7 +5,8 @@ file: /ol-ocw-studio-app/courses/hst-935-narrative-ethics-literary-texts-and-mor
 file_size: 11460
 file_type: image/jpeg
 image_metadata:
-  caption: '"The Doctor," by Samuel Luke Fildes, 1891. (Image courtesy of [Wikipedia](http://en.wikipedia.org/wiki/Luke_Fildes).)'
+  caption: '"The Doctor," by Samuel Luke Fildes, 1891. (Image courtesy of {{% resource_link
+    "b203d0ff-c9f5-48ae-8564-e57c8f0c53b2" "Wikipedia" %}}.)'
   credit: ''
   image-alt: Painting of an illuminated doctor considering a young patient.
 learning_resource_types: []
